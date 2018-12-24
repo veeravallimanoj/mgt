@@ -1,2 +1,0 @@
-# mgt
-mindgrid project 
